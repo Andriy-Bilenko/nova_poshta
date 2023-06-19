@@ -1,0 +1,5 @@
+INV210501 3 Postal-delivery Boryspil
+INV210502 5 Freight-delivery Vinnytsia
+INV210503 2 Furniture-delivery Donetsk
+INV210504 7 White-glove-delivery Ternopil
+INV210505 4 Retail-delivery Kharkiv
